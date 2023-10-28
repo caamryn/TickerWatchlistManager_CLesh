@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.tickerwatchlistmanager_clesh"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.tickerwatchlistmanager_clesh"
-        minSdk = 33
-        targetSdk = 33
+        minSdk = 34
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
